@@ -1,4 +1,4 @@
-# P01 — Enterprise Hybrid Cloud Platform Engineering
+# P01 - Enterprise Hybrid Cloud Platform Engineering
 
 **Duration**
 
