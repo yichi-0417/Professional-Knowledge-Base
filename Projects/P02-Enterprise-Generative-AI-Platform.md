@@ -77,4 +77,5 @@ The proof of concept successfully completed technical validation and was approve
 Received the company's quarterly **Customer Success Award** as the Solution Architect for the project following nomination by the responsible Vice President.
 
 Presented the project as an internal case study within the Cloud organization and delivered a technical knowledge-sharing session for approximately 30 engineers in the India delivery organization. <br>
+
 The architecture, proposal refinements, and implementation experience became reusable assets for subsequent enterprise AI proposals and delivery.
