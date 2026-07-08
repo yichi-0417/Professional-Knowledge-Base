@@ -1,4 +1,4 @@
-> Living documentation of my professional journey as an Enterprise Architect.
+> Living documentation of my professional journey as an Architect.
 
 ---
 
