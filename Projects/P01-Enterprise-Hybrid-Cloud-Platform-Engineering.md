@@ -77,4 +77,5 @@ Service was restored before escalation to the customer's executive management.
 ### Recognition
 
 Received the customer's annual Business MVP Award, selected from engineers across multiple service vendors.<br>
+
 The resulting approach became the foundation of the company's delivery model for subsequent large-scale cloud migration programs.
