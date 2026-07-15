@@ -1,4 +1,4 @@
-# P02 - Enterprise Generative AI Platform
+# P02 — Enterprise Generative AI Platform
 
 **Duration**
 
