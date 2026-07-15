@@ -1,4 +1,4 @@
-# P03 -Enterprise Access Governance Modernization
+# P03 — Enterprise Access Governance Modernization
 
 **Duration**
 
