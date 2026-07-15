@@ -1,4 +1,4 @@
-# P05-Core Banking Cloud Migration
+# P05 — Core Banking Cloud Migration
 
 **Duration**
 
